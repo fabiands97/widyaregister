@@ -16,6 +16,10 @@ Most of people use this method and it works, but in this project, after I publis
 
 I tried to fix this bug based on many references but still didn't work, and I still can't find the solution.
 
+![Screenshot (220)](https://user-images.githubusercontent.com/38582312/91652830-eeda6080-eac4-11ea-8242-94b864d63aa8.png)
+
+
+![Screenshot (221)](https://user-images.githubusercontent.com/38582312/91652844-0e718900-eac5-11ea-9308-7b12fb1cdda7.png)
 
 
 
