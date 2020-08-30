@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Notes
+In this test, I couldn't show the API data that have been fetched into the interface (company field option list).
+I managed to get company-list from the API and the data can be shown or printed in console.
+I've already tried to write command based on many references, and it should be :
+
+'''
+this.state.map(item =>
+  (
+    <option value={item.id}>{item.name}</option>
+  )
+)
+'''
+
+Most of people use this method and it works, but in this project, after I publish the project it always says
+> .map is not a function
+
+I tried to fix this bug based on many references but still didn't work, and I still can't find the solution.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
